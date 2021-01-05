@@ -15,7 +15,7 @@ and open the template in the editor.
         <?php
        $title="Welcome to bombay";
        
-       $name ="Narendra";
+       $name ="Narendra 2";
        $number=102;
               
        echo $name .$number;
