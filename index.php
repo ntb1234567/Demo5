@@ -13,7 +13,7 @@ and open the template in the editor.
     <body>
         <div>TODO write content</div>
         <?php
-       $title="Welcome to bombay";
+       $title="Welcome to bombayrr";
        
        $name ="Narendra 55";
        $number=102;
